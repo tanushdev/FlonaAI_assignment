@@ -5,9 +5,9 @@ A B-Roll insertion system.
 ## Start (Docker)
 
 1. **Setup Environment**
-   - Navigate to `backend/`
-   - Create a file named `.env`
-   - Add your Gemini API key:
+    Navigate to `backend/`
+    Create a file named `.env`
+    Add your Gemini API key:
      ```env
      GEMINI_API_KEY=your_actual_api_key_here
      LLM_PROVIDER=gemini
@@ -15,15 +15,15 @@ A B-Roll insertion system.
      ```
 
 2. **Run Application**
-   - Open a terminal in the root folder.
-   - Run:
+    Open a terminal in the root folder.
+    Run:
      ```bash
      docker-compose up --build
      ```
 
 3. **Open in Browser**
-   - Frontend: [http://localhost:5173](http://localhost:5173)
-   - Backend API: [http://localhost:8000](http://localhost:8000)
+    Frontend: [http://localhost:5173](http://localhost:5173)
+    Backend API: [http://localhost:8000](http://localhost:8000)
 
 ---
 
