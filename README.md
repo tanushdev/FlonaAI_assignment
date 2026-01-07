@@ -1,6 +1,6 @@
 # Flona AI Assignment
 
-A B-Roll insertion system that uses AI to analyze A-Roll audio key-points and insert relevant B-Roll clips.
+A B-Roll insertion system.
 
 ## 🚀 How to Start (Docker)
 
