@@ -2,9 +2,7 @@
 
 A B-Roll insertion system.
 
-## 🚀 How to Start (Docker)
-
-The easiest way to run the app is with Docker.
+## Start (Docker)
 
 1. **Setup Environment**
    - Navigate to `backend/`
